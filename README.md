@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a target="blank" href="https://hasibdev.netlify.app/">MD Hasibul Hasan</a>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://hasibdev.netlify.app/">MD Hasibul Hasan</a>
 </h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
