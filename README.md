@@ -75,12 +75,7 @@ I specialize in creating sleek, scalable, and efficient web applications, master
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.fiverr.com/adnanhasib565?up_rollout=true" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~016c22697bb208b08b" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
+ 
 </p>
 
 ---
