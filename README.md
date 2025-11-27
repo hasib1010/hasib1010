@@ -72,10 +72,12 @@ I specialize in creating sleek, scalable, and efficient web applications, master
   <a href="https://fb.com/hasib.savage007" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://wa.me/8801608471414" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:mdhasibulhasan360@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- 
 </p>
 
 ---
